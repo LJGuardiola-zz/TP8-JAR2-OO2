@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TP8-JAR2-OO2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TP8_JAR2_OO2_jar</output-path>
+    <root id="archive" name="TP8-JAR2-OO2.jar">
+      <element id="module-output" name="TP8-JAR2-OO2" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/reflections/reflections/0.9.12/reflections-0.9.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/javassist/javassist/3.26.0-GA/javassist-3.26.0-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/lanterna/lanterna/3.1.1/lanterna-3.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
